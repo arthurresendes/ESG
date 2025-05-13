@@ -1,0 +1,124 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {
+  color: var(--bs-secondary-color);
+  text-align: end;
+}
+
+.form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
+  text-align: start;
+}
+
+/*Pagina principal*/
+
+main{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.min{
+  width: 30%;
+  margin: 0 auto;  
+  border: 2px solid purple;
+}
+
+.introducao{
+  font-weight: bold;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-style: italic;
+  text-align: center;
+  font-size: 2em;
+}
+
+
+.inicio {
+    display: flex;            /* Usa flexbox para organizar os elementos */
+    align-items: center;      /* Alinha verticalmente os itens ao centro */
+    padding: 15px ;
+}
+
+.imgInicio {
+    float: left;
+    margin-right: 20px; /* Espaçamento entre a imagem e a linha */
+    width: 900px;
+    border: 1px solid transparent;
+    box-shadow: 1px 1px 3px rgba(24, 24, 24, 0.652);
+    border-radius: 18px 14px;
+}
+
+.hrInicio {
+    width: 1px;            /* Define a largura da linha */
+    height: 30%;         /* Usa a altura total da viewport */
+    margin: 0 20px;        /* Espaçamento entre a linha e os elementos ao redor */
+    border: none;          /* Remove a borda padrão */
+    background-color: purple;
+}
+
+.divInicio {
+    float: right;
+    clear: both;           /* Garante que o elemento se alinhe corretamente */
+    margin-left: 20px;     /* Espaçamento entre o parágrafo e a linha */
+}
+
+
+
+.servicos{
+  padding-top: 20px;
+  background-color: rgba(170, 247, 170, 0.518);
+  margin: 0px;
+}
+
+.servicos h2{
+  text-align: center;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-shadow: 1px 1px 3px rgba(0, 0, 255, 0.186);
+  color: purple;
+}
+
+.servicoPrincipal{
+  display: flex;
+  justify-content: space-between; /* Espaço entre os serviços */
+  align-items: stretch; /* Alinha todos com a mesma altura */
+  gap: 20px; /* Espaço entre eles */
+  padding: 20px;
+}
+
+.servico1,
+.servico2,
+.servico3,
+.servico4 {
+  border: 1px solid black;
+  width: 23%; /* 4 colunas lado a lado com espaço entre */
+  padding: 15px;
+  box-sizing: border-box;
+  border-radius: 5px;
+  background-color: #f2f2f2;
+}
+
+.servico1,
+.servico2,
+.servico3,
+.servico4 h3{
+  text-align: center;
+  text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.159);
+}
