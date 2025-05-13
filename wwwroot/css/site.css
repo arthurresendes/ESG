@@ -31,9 +31,78 @@ body {
 }
 
 /*Pagina principal*/
+/* Espaçamento entre itens do menu */
+.navbar-nav .nav-item {
+    margin-right: 220px; /* Espaço à direita de cada item */
+}
 
-main{
-  font-family: Arial, Helvetica, sans-serif;
+.navbar-nav .nav-item:last-child {
+    margin-right: 22px; /* Remove o espaço do último item */
+}
+
+/* Ajusta o menu para centralizar os itens verticalmente */
+.nav-link {
+    padding: 10px 15px;
+    font-size: 16px;
+    font-weight: bolder;
+    color:rgb(48, 48, 48);
+    transition: color 0.3s, background-color 0.3s;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.nav-link:hover {
+    color: #000;
+    background-color: #e8e8e8;
+    border-radius: 5px;
+}
+
+/* Garante que todos os itens do menu tenham o mesmo estilo */
+.navbar-nav .nav-item .nav-link {
+    font-size: 16px; /* Tamanho de texto uniforme */
+    padding: 10px 15px; /* Espaçamento interno consistente */
+    text-align: center; /* Centraliza o texto */
+    display: inline-block; /* Garante alinhamento consistente */
+    width: auto; /* Permite que o tamanho seja baseado no conteúdo */
+}
+
+/* Ajuste específico para telas pequenas */
+@media (max-width: 768px) {
+    .navbar-nav .nav-item .nav-link {
+        width: 100%; /* Cada item ocupa a largura total em dispositivos menores */
+        padding: 10px; /* Espaçamento interno reduzido */
+    }
+}
+
+main {
+    width: 100%; /* Ocupa 100% da largura da página */
+    margin: 0; /* Remove margens externas */
+    padding: 0; /* Remove espaçamentos internos */
+    box-sizing: border-box; /* Inclui bordas e padding no cálculo da largura */
+}
+
+main .introducao,
+main .inicio,
+main .servicos {
+    max-width: 100%; /* Garante que as seções ocupem toda a largura */
+    padding: 20px; /* Adiciona espaçamento interno */
+    margin: 0 auto; /* Centraliza o conteúdo dentro do container */
+}
+
+main .servicoPrincipal {
+    display: flex; /* Coloca os serviços lado a lado */
+    flex-wrap: wrap; /* Permite que os itens se ajustem em linhas, se necessário */
+    justify-content: space-around; /* Espaça os serviços uniformemente */
+    gap: 20px; /* Espaçamento entre os serviços */
+}
+
+main .servicoPrincipal > div {
+    flex: 1 1 calc(25% - 40px); /* Cada serviço ocupa 25% da largura menos o espaçamento */
+    min-width: 250px; /* Define uma largura mínima para evitar que fiquem muito pequenos */
+    box-sizing: border-box; /* Inclui padding e borda no cálculo da largura */
+    padding: 15px; /* Espaçamento interno de cada serviço */
+    border: 1px solid #ccc; /* Bordas ao redor dos serviços (opcional) */
+    border-radius: 8px; /* Bordas arredondadas (opcional) */
+    background-color: #f9f9f9; /* Cor de fundo dos serviços (opcional) */
 }
 
 .min{

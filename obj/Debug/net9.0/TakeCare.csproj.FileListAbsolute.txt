@@ -93,4 +93,5 @@ C:\Users\arthu\OneDrive\Área de Trabalho\Programação\Trabalhos\Desenvolviment
 C:\Users\arthu\OneDrive\Área de Trabalho\Programação\Trabalhos\Desenvolvimento web\ESG\TakeCare\obj\Debug\net9.0\TakeCare.pdb
 C:\Users\arthu\OneDrive\Área de Trabalho\Programação\Trabalhos\Desenvolvimento web\ESG\TakeCare\obj\Debug\net9.0\TakeCare.genruntimeconfig.cache
 C:\Users\arthu\OneDrive\Área de Trabalho\Programação\Trabalhos\Desenvolvimento web\ESG\TakeCare\obj\Debug\net9.0\ref\TakeCare.dll
-C:\Users\arthu\OneDrive\Área de Trabalho\Programação\Trabalhos\Desenvolvimento web\ESG\TakeCare\obj\Debug\net9.0\compressed\i118lbwu8n-z7o07gi50f.gz
+C:\Users\arthu\OneDrive\Área de Trabalho\Programação\Trabalhos\Desenvolvimento web\ESG\TakeCare\obj\Debug\net9.0\TakeCare.sourcelink.json
+C:\Users\arthu\OneDrive\Área de Trabalho\Programação\Trabalhos\Desenvolvimento web\ESG\TakeCare\obj\Debug\net9.0\compressed\i118lbwu8n-yxr94rd4sr.gz
