@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "S7B978QeACGjwsQnT6f/p3uEMVBsFA0wDixrfAY1d8g=",
+  "Hash": "3mqjKgaDNtrGccyTJ7/WqrlOqjAX6AVDhoFEdMrfdhE=",
   "Source": "TakeCare",
   "BasePath": "_content/TakeCare",
   "Mode": "Default",
@@ -626,12 +626,12 @@
       "OriginalItemSpec": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\ESG\\TakeCare\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\ESG\\TakeCare\\obj\\Debug\\net9.0\\compressed\\i118lbwu8n-yxr94rd4sr.gz",
+      "Identity": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\ESG\\TakeCare\\obj\\Debug\\net9.0\\compressed\\i118lbwu8n-8iwh4nv2qn.gz",
       "SourceId": "TakeCare",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\ESG\\TakeCare\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/TakeCare",
-      "RelativePath": "css/site#[.{fingerprint=yxr94rd4sr}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=8iwh4nv2qn}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -640,19 +640,19 @@
       "RelatedAsset": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\ESG\\TakeCare\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "pjov3dml8y",
-      "Integrity": "+5q7YYmkiWym3xaewsTL5dKFRKfv75JjC2wG7U16mtM=",
+      "Fingerprint": "yiu2c1049p",
+      "Integrity": "CjdGvy0cISRwIE+WzZziOZ6CVmx14o3+IFKy1sPuCtM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\ESG\\TakeCare\\wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\ESG\\TakeCare\\obj\\Debug\\net9.0\\compressed\\i3xn3o0eor-geal5igxgm.gz",
+      "Identity": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\ESG\\TakeCare\\obj\\Debug\\net9.0\\compressed\\i3xn3o0eor-8t2aqnmsg1.gz",
       "SourceId": "TakeCare",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\ESG\\TakeCare\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/TakeCare",
-      "RelativePath": "TakeCare#[.{fingerprint=geal5igxgm}]?.styles.css.gz",
+      "RelativePath": "TakeCare#[.{fingerprint=8t2aqnmsg1}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -661,8 +661,8 @@
       "RelatedAsset": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\ESG\\TakeCare\\obj\\Debug\\net9.0\\scopedcss\\bundle\\TakeCare.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "jqp1659z5y",
-      "Integrity": "dX14MR8rV0XBrqfatidZ6jtOuPyoH5EtnsbglacsDO8=",
+      "Fingerprint": "jr636m1800",
+      "Integrity": "/zIXzbkph4dAu0tARjQJwxh/A7TFlUM9uMXrev26RKY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\ESG\\TakeCare\\obj\\Debug\\net9.0\\scopedcss\\bundle\\TakeCare.styles.css"
@@ -731,12 +731,12 @@
       "OriginalItemSpec": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\ESG\\TakeCare\\wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\ESG\\TakeCare\\obj\\Debug\\net9.0\\compressed\\jz3wwbqrzy-geal5igxgm.gz",
+      "Identity": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\ESG\\TakeCare\\obj\\Debug\\net9.0\\compressed\\jz3wwbqrzy-8t2aqnmsg1.gz",
       "SourceId": "TakeCare",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\ESG\\TakeCare\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/TakeCare",
-      "RelativePath": "TakeCare#[.{fingerprint=geal5igxgm}]!.bundle.scp.css.gz",
+      "RelativePath": "TakeCare#[.{fingerprint=8t2aqnmsg1}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -745,8 +745,8 @@
       "RelatedAsset": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\ESG\\TakeCare\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\TakeCare.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "jqp1659z5y",
-      "Integrity": "dX14MR8rV0XBrqfatidZ6jtOuPyoH5EtnsbglacsDO8=",
+      "Fingerprint": "jr636m1800",
+      "Integrity": "/zIXzbkph4dAu0tARjQJwxh/A7TFlUM9uMXrev26RKY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\ESG\\TakeCare\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\TakeCare.bundle.scp.css"
@@ -1354,8 +1354,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "geal5igxgm",
-      "Integrity": "GOvRXIJ1vEGeCovFizsSVqQOJjrMihacleTyNXRkrCg=",
+      "Fingerprint": "8t2aqnmsg1",
+      "Integrity": "RF3rgbE6Dv695gMLgtCtG+y9WrrMwKOUOZ5Om1+qhV0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\ESG\\TakeCare\\obj\\Debug\\net9.0\\scopedcss\\bundle\\TakeCare.styles.css"
@@ -1375,8 +1375,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "geal5igxgm",
-      "Integrity": "GOvRXIJ1vEGeCovFizsSVqQOJjrMihacleTyNXRkrCg=",
+      "Fingerprint": "8t2aqnmsg1",
+      "Integrity": "RF3rgbE6Dv695gMLgtCtG+y9WrrMwKOUOZ5Om1+qhV0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\ESG\\TakeCare\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\TakeCare.bundle.scp.css"
@@ -1396,8 +1396,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "yxr94rd4sr",
-      "Integrity": "tpUBLVbAtQ4hy+85uKn4Xr0qwuVZDisnNqZJVYcNxQ0=",
+      "Fingerprint": "8iwh4nv2qn",
+      "Integrity": "MJEiv/nNuh+z9XCTUV2G0YmLgokIPnV401Zkj5n2GWk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -2707,13 +2707,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\ESG\\TakeCare\\obj\\Debug\\net9.0\\compressed\\i118lbwu8n-yxr94rd4sr.gz",
+      "Route": "css/site.8iwh4nv2qn.css",
+      "AssetFile": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\ESG\\TakeCare\\obj\\Debug\\net9.0\\compressed\\i118lbwu8n-8iwh4nv2qn.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000531067446"
+          "Quality": "0.000528262018"
         }
       ],
       "ResponseHeaders": [
@@ -2723,19 +2723,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1882"
+          "Value": "1892"
         },
         {
           "Name": "ETag",
-          "Value": "\"+5q7YYmkiWym3xaewsTL5dKFRKfv75JjC2wG7U16mtM=\""
+          "Value": "\"CjdGvy0cISRwIE+WzZziOZ6CVmx14o3+IFKy1sPuCtM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 13 May 2025 17:49:55 GMT"
+          "Value": "Wed, 14 May 2025 02:36:59 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -2751,18 +2751,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"tpUBLVbAtQ4hy+85uKn4Xr0qwuVZDisnNqZJVYcNxQ0=\""
+          "Value": "W/\"MJEiv/nNuh+z9XCTUV2G0YmLgokIPnV401Zkj5n2GWk=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "8iwh4nv2qn"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-tpUBLVbAtQ4hy+85uKn4Xr0qwuVZDisnNqZJVYcNxQ0="
+          "Value": "sha256-MJEiv/nNuh+z9XCTUV2G0YmLgokIPnV401Zkj5n2GWk="
         }
       ]
     },
     {
-      "Route": "css/site.css",
+      "Route": "css/site.8iwh4nv2qn.css",
       "AssetFile": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\ESG\\TakeCare\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2772,7 +2780,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5610"
+          "Value": "5628"
         },
         {
           "Name": "Content-Type",
@@ -2780,121 +2788,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"tpUBLVbAtQ4hy+85uKn4Xr0qwuVZDisnNqZJVYcNxQ0=\""
+          "Value": "\"MJEiv/nNuh+z9XCTUV2G0YmLgokIPnV401Zkj5n2GWk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 13 May 2025 17:49:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-tpUBLVbAtQ4hy+85uKn4Xr0qwuVZDisnNqZJVYcNxQ0="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css.gz",
-      "AssetFile": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\ESG\\TakeCare\\obj\\Debug\\net9.0\\compressed\\i118lbwu8n-yxr94rd4sr.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1882"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"+5q7YYmkiWym3xaewsTL5dKFRKfv75JjC2wG7U16mtM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 13 May 2025 17:49:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-+5q7YYmkiWym3xaewsTL5dKFRKfv75JjC2wG7U16mtM="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.yxr94rd4sr.css",
-      "AssetFile": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\ESG\\TakeCare\\obj\\Debug\\net9.0\\compressed\\i118lbwu8n-yxr94rd4sr.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000531067446"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1882"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"+5q7YYmkiWym3xaewsTL5dKFRKfv75JjC2wG7U16mtM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 13 May 2025 17:49:55 GMT"
+          "Value": "Wed, 14 May 2025 02:36:59 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"tpUBLVbAtQ4hy+85uKn4Xr0qwuVZDisnNqZJVYcNxQ0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "yxr94rd4sr"
+          "Value": "8iwh4nv2qn"
         },
         {
           "Name": "label",
@@ -2902,13 +2810,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-tpUBLVbAtQ4hy+85uKn4Xr0qwuVZDisnNqZJVYcNxQ0="
+          "Value": "sha256-MJEiv/nNuh+z9XCTUV2G0YmLgokIPnV401Zkj5n2GWk="
         }
       ]
     },
     {
-      "Route": "css/site.yxr94rd4sr.css",
-      "AssetFile": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\ESG\\TakeCare\\wwwroot\\css\\site.css",
+      "Route": "css/site.8iwh4nv2qn.css.gz",
+      "AssetFile": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\ESG\\TakeCare\\obj\\Debug\\net9.0\\compressed\\i118lbwu8n-8iwh4nv2qn.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2917,7 +2825,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5610"
+          "Value": "1892"
         },
         {
           "Name": "Content-Type",
@@ -2925,56 +2833,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"tpUBLVbAtQ4hy+85uKn4Xr0qwuVZDisnNqZJVYcNxQ0=\""
+          "Value": "\"CjdGvy0cISRwIE+WzZziOZ6CVmx14o3+IFKy1sPuCtM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 13 May 2025 17:49:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "yxr94rd4sr"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-tpUBLVbAtQ4hy+85uKn4Xr0qwuVZDisnNqZJVYcNxQ0="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.yxr94rd4sr.css.gz",
-      "AssetFile": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\ESG\\TakeCare\\obj\\Debug\\net9.0\\compressed\\i118lbwu8n-yxr94rd4sr.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1882"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"+5q7YYmkiWym3xaewsTL5dKFRKfv75JjC2wG7U16mtM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 13 May 2025 17:49:55 GMT"
+          "Value": "Wed, 14 May 2025 02:36:59 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2992,7 +2855,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "yxr94rd4sr"
+          "Value": "8iwh4nv2qn"
         },
         {
           "Name": "label",
@@ -3000,7 +2863,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-+5q7YYmkiWym3xaewsTL5dKFRKfv75JjC2wG7U16mtM="
+          "Value": "sha256-CjdGvy0cISRwIE+WzZziOZ6CVmx14o3+IFKy1sPuCtM="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\ESG\\TakeCare\\obj\\Debug\\net9.0\\compressed\\i118lbwu8n-8iwh4nv2qn.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000528262018"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1892"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CjdGvy0cISRwIE+WzZziOZ6CVmx14o3+IFKy1sPuCtM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"MJEiv/nNuh+z9XCTUV2G0YmLgokIPnV401Zkj5n2GWk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MJEiv/nNuh+z9XCTUV2G0YmLgokIPnV401Zkj5n2GWk="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\ESG\\TakeCare\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5628"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MJEiv/nNuh+z9XCTUV2G0YmLgokIPnV401Zkj5n2GWk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MJEiv/nNuh+z9XCTUV2G0YmLgokIPnV401Zkj5n2GWk="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css.gz",
+      "AssetFile": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\ESG\\TakeCare\\obj\\Debug\\net9.0\\compressed\\i118lbwu8n-8iwh4nv2qn.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1892"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CjdGvy0cISRwIE+WzZziOZ6CVmx14o3+IFKy1sPuCtM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CjdGvy0cISRwIE+WzZziOZ6CVmx14o3+IFKy1sPuCtM="
         }
       ]
     },
@@ -20967,13 +20967,13 @@
       ]
     },
     {
-      "Route": "TakeCare.bundle.scp.css",
-      "AssetFile": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\ESG\\TakeCare\\obj\\Debug\\net9.0\\compressed\\jz3wwbqrzy-geal5igxgm.gz",
+      "Route": "TakeCare.8t2aqnmsg1.bundle.scp.css",
+      "AssetFile": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\ESG\\TakeCare\\obj\\Debug\\net9.0\\compressed\\jz3wwbqrzy-8t2aqnmsg1.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001848428835"
+          "Quality": "0.001845018450"
         }
       ],
       "ResponseHeaders": [
@@ -20983,19 +20983,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "540"
+          "Value": "541"
         },
         {
           "Name": "ETag",
-          "Value": "\"dX14MR8rV0XBrqfatidZ6jtOuPyoH5EtnsbglacsDO8=\""
+          "Value": "\"/zIXzbkph4dAu0tARjQJwxh/A7TFlUM9uMXrev26RKY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 13 May 2025 02:42:12 GMT"
+          "Value": "Wed, 14 May 2025 02:34:01 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -21011,18 +21011,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"GOvRXIJ1vEGeCovFizsSVqQOJjrMihacleTyNXRkrCg=\""
+          "Value": "W/\"RF3rgbE6Dv695gMLgtCtG+y9WrrMwKOUOZ5Om1+qhV0=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "8t2aqnmsg1"
+        },
+        {
+          "Name": "label",
+          "Value": "TakeCare.bundle.scp.css"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-GOvRXIJ1vEGeCovFizsSVqQOJjrMihacleTyNXRkrCg="
+          "Value": "sha256-RF3rgbE6Dv695gMLgtCtG+y9WrrMwKOUOZ5Om1+qhV0="
         }
       ]
     },
     {
-      "Route": "TakeCare.bundle.scp.css",
+      "Route": "TakeCare.8t2aqnmsg1.bundle.scp.css",
       "AssetFile": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\ESG\\TakeCare\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\TakeCare.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -21032,7 +21040,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1126"
+          "Value": "1130"
         },
         {
           "Name": "Content-Type",
@@ -21040,121 +21048,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GOvRXIJ1vEGeCovFizsSVqQOJjrMihacleTyNXRkrCg=\""
+          "Value": "\"RF3rgbE6Dv695gMLgtCtG+y9WrrMwKOUOZ5Om1+qhV0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 13 May 2025 02:42:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-GOvRXIJ1vEGeCovFizsSVqQOJjrMihacleTyNXRkrCg="
-        }
-      ]
-    },
-    {
-      "Route": "TakeCare.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\ESG\\TakeCare\\obj\\Debug\\net9.0\\compressed\\jz3wwbqrzy-geal5igxgm.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "540"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"dX14MR8rV0XBrqfatidZ6jtOuPyoH5EtnsbglacsDO8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 13 May 2025 02:42:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-dX14MR8rV0XBrqfatidZ6jtOuPyoH5EtnsbglacsDO8="
-        }
-      ]
-    },
-    {
-      "Route": "TakeCare.geal5igxgm.bundle.scp.css",
-      "AssetFile": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\ESG\\TakeCare\\obj\\Debug\\net9.0\\compressed\\jz3wwbqrzy-geal5igxgm.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001848428835"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "540"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"dX14MR8rV0XBrqfatidZ6jtOuPyoH5EtnsbglacsDO8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 13 May 2025 02:42:12 GMT"
+          "Value": "Wed, 14 May 2025 02:34:01 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"GOvRXIJ1vEGeCovFizsSVqQOJjrMihacleTyNXRkrCg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "geal5igxgm"
+          "Value": "8t2aqnmsg1"
         },
         {
           "Name": "label",
@@ -21162,13 +21070,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-GOvRXIJ1vEGeCovFizsSVqQOJjrMihacleTyNXRkrCg="
+          "Value": "sha256-RF3rgbE6Dv695gMLgtCtG+y9WrrMwKOUOZ5Om1+qhV0="
         }
       ]
     },
     {
-      "Route": "TakeCare.geal5igxgm.bundle.scp.css",
-      "AssetFile": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\ESG\\TakeCare\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\TakeCare.bundle.scp.css",
+      "Route": "TakeCare.8t2aqnmsg1.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\ESG\\TakeCare\\obj\\Debug\\net9.0\\compressed\\jz3wwbqrzy-8t2aqnmsg1.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -21177,7 +21085,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1126"
+          "Value": "541"
         },
         {
           "Name": "Content-Type",
@@ -21185,56 +21093,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GOvRXIJ1vEGeCovFizsSVqQOJjrMihacleTyNXRkrCg=\""
+          "Value": "\"/zIXzbkph4dAu0tARjQJwxh/A7TFlUM9uMXrev26RKY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 13 May 2025 02:42:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "geal5igxgm"
-        },
-        {
-          "Name": "label",
-          "Value": "TakeCare.bundle.scp.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-GOvRXIJ1vEGeCovFizsSVqQOJjrMihacleTyNXRkrCg="
-        }
-      ]
-    },
-    {
-      "Route": "TakeCare.geal5igxgm.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\ESG\\TakeCare\\obj\\Debug\\net9.0\\compressed\\jz3wwbqrzy-geal5igxgm.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "540"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"dX14MR8rV0XBrqfatidZ6jtOuPyoH5EtnsbglacsDO8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 13 May 2025 02:42:12 GMT"
+          "Value": "Wed, 14 May 2025 02:34:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21252,7 +21115,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "geal5igxgm"
+          "Value": "8t2aqnmsg1"
         },
         {
           "Name": "label",
@@ -21260,18 +21123,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-dX14MR8rV0XBrqfatidZ6jtOuPyoH5EtnsbglacsDO8="
+          "Value": "sha256-/zIXzbkph4dAu0tARjQJwxh/A7TFlUM9uMXrev26RKY="
         }
       ]
     },
     {
-      "Route": "TakeCare.geal5igxgm.styles.css",
-      "AssetFile": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\ESG\\TakeCare\\obj\\Debug\\net9.0\\compressed\\i3xn3o0eor-geal5igxgm.gz",
+      "Route": "TakeCare.8t2aqnmsg1.styles.css",
+      "AssetFile": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\ESG\\TakeCare\\obj\\Debug\\net9.0\\compressed\\i3xn3o0eor-8t2aqnmsg1.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001848428835"
+          "Quality": "0.001845018450"
         }
       ],
       "ResponseHeaders": [
@@ -21281,15 +21144,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "540"
+          "Value": "541"
         },
         {
           "Name": "ETag",
-          "Value": "\"dX14MR8rV0XBrqfatidZ6jtOuPyoH5EtnsbglacsDO8=\""
+          "Value": "\"/zIXzbkph4dAu0tARjQJwxh/A7TFlUM9uMXrev26RKY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 13 May 2025 02:42:12 GMT"
+          "Value": "Wed, 14 May 2025 02:34:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21309,13 +21172,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"GOvRXIJ1vEGeCovFizsSVqQOJjrMihacleTyNXRkrCg=\""
+          "Value": "W/\"RF3rgbE6Dv695gMLgtCtG+y9WrrMwKOUOZ5Om1+qhV0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "geal5igxgm"
+          "Value": "8t2aqnmsg1"
         },
         {
           "Name": "label",
@@ -21323,12 +21186,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-GOvRXIJ1vEGeCovFizsSVqQOJjrMihacleTyNXRkrCg="
+          "Value": "sha256-RF3rgbE6Dv695gMLgtCtG+y9WrrMwKOUOZ5Om1+qhV0="
         }
       ]
     },
     {
-      "Route": "TakeCare.geal5igxgm.styles.css",
+      "Route": "TakeCare.8t2aqnmsg1.styles.css",
       "AssetFile": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\ESG\\TakeCare\\obj\\Debug\\net9.0\\scopedcss\\bundle\\TakeCare.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -21338,7 +21201,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1126"
+          "Value": "1130"
         },
         {
           "Name": "Content-Type",
@@ -21346,11 +21209,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GOvRXIJ1vEGeCovFizsSVqQOJjrMihacleTyNXRkrCg=\""
+          "Value": "\"RF3rgbE6Dv695gMLgtCtG+y9WrrMwKOUOZ5Om1+qhV0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 13 May 2025 02:42:12 GMT"
+          "Value": "Wed, 14 May 2025 02:34:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21360,7 +21223,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "geal5igxgm"
+          "Value": "8t2aqnmsg1"
         },
         {
           "Name": "label",
@@ -21368,13 +21231,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-GOvRXIJ1vEGeCovFizsSVqQOJjrMihacleTyNXRkrCg="
+          "Value": "sha256-RF3rgbE6Dv695gMLgtCtG+y9WrrMwKOUOZ5Om1+qhV0="
         }
       ]
     },
     {
-      "Route": "TakeCare.geal5igxgm.styles.css.gz",
-      "AssetFile": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\ESG\\TakeCare\\obj\\Debug\\net9.0\\compressed\\i3xn3o0eor-geal5igxgm.gz",
+      "Route": "TakeCare.8t2aqnmsg1.styles.css.gz",
+      "AssetFile": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\ESG\\TakeCare\\obj\\Debug\\net9.0\\compressed\\i3xn3o0eor-8t2aqnmsg1.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -21383,7 +21246,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "540"
+          "Value": "541"
         },
         {
           "Name": "Content-Type",
@@ -21391,11 +21254,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"dX14MR8rV0XBrqfatidZ6jtOuPyoH5EtnsbglacsDO8=\""
+          "Value": "\"/zIXzbkph4dAu0tARjQJwxh/A7TFlUM9uMXrev26RKY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 13 May 2025 02:42:12 GMT"
+          "Value": "Wed, 14 May 2025 02:34:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21413,7 +21276,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "geal5igxgm"
+          "Value": "8t2aqnmsg1"
         },
         {
           "Name": "label",
@@ -21421,7 +21284,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-dX14MR8rV0XBrqfatidZ6jtOuPyoH5EtnsbglacsDO8="
+          "Value": "sha256-/zIXzbkph4dAu0tARjQJwxh/A7TFlUM9uMXrev26RKY="
+        }
+      ]
+    },
+    {
+      "Route": "TakeCare.bundle.scp.css",
+      "AssetFile": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\ESG\\TakeCare\\obj\\Debug\\net9.0\\compressed\\jz3wwbqrzy-8t2aqnmsg1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001845018450"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "541"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/zIXzbkph4dAu0tARjQJwxh/A7TFlUM9uMXrev26RKY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:34:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"RF3rgbE6Dv695gMLgtCtG+y9WrrMwKOUOZ5Om1+qhV0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RF3rgbE6Dv695gMLgtCtG+y9WrrMwKOUOZ5Om1+qhV0="
+        }
+      ]
+    },
+    {
+      "Route": "TakeCare.bundle.scp.css",
+      "AssetFile": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\ESG\\TakeCare\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\TakeCare.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1130"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RF3rgbE6Dv695gMLgtCtG+y9WrrMwKOUOZ5Om1+qhV0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:34:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RF3rgbE6Dv695gMLgtCtG+y9WrrMwKOUOZ5Om1+qhV0="
+        }
+      ]
+    },
+    {
+      "Route": "TakeCare.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\ESG\\TakeCare\\obj\\Debug\\net9.0\\compressed\\jz3wwbqrzy-8t2aqnmsg1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "541"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/zIXzbkph4dAu0tARjQJwxh/A7TFlUM9uMXrev26RKY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:34:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/zIXzbkph4dAu0tARjQJwxh/A7TFlUM9uMXrev26RKY="
         }
       ]
     },
@@ -21509,12 +21509,12 @@
     },
     {
       "Route": "TakeCare.styles.css",
-      "AssetFile": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\ESG\\TakeCare\\obj\\Debug\\net9.0\\compressed\\i3xn3o0eor-geal5igxgm.gz",
+      "AssetFile": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\ESG\\TakeCare\\obj\\Debug\\net9.0\\compressed\\i3xn3o0eor-8t2aqnmsg1.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001848428835"
+          "Quality": "0.001845018450"
         }
       ],
       "ResponseHeaders": [
@@ -21524,15 +21524,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "540"
+          "Value": "541"
         },
         {
           "Name": "ETag",
-          "Value": "\"dX14MR8rV0XBrqfatidZ6jtOuPyoH5EtnsbglacsDO8=\""
+          "Value": "\"/zIXzbkph4dAu0tARjQJwxh/A7TFlUM9uMXrev26RKY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 13 May 2025 02:42:12 GMT"
+          "Value": "Wed, 14 May 2025 02:34:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21552,13 +21552,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"GOvRXIJ1vEGeCovFizsSVqQOJjrMihacleTyNXRkrCg=\""
+          "Value": "W/\"RF3rgbE6Dv695gMLgtCtG+y9WrrMwKOUOZ5Om1+qhV0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GOvRXIJ1vEGeCovFizsSVqQOJjrMihacleTyNXRkrCg="
+          "Value": "sha256-RF3rgbE6Dv695gMLgtCtG+y9WrrMwKOUOZ5Om1+qhV0="
         }
       ]
     },
@@ -21573,7 +21573,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1126"
+          "Value": "1130"
         },
         {
           "Name": "Content-Type",
@@ -21581,11 +21581,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GOvRXIJ1vEGeCovFizsSVqQOJjrMihacleTyNXRkrCg=\""
+          "Value": "\"RF3rgbE6Dv695gMLgtCtG+y9WrrMwKOUOZ5Om1+qhV0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 13 May 2025 02:42:12 GMT"
+          "Value": "Wed, 14 May 2025 02:34:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21595,13 +21595,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GOvRXIJ1vEGeCovFizsSVqQOJjrMihacleTyNXRkrCg="
+          "Value": "sha256-RF3rgbE6Dv695gMLgtCtG+y9WrrMwKOUOZ5Om1+qhV0="
         }
       ]
     },
     {
       "Route": "TakeCare.styles.css.gz",
-      "AssetFile": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\ESG\\TakeCare\\obj\\Debug\\net9.0\\compressed\\i3xn3o0eor-geal5igxgm.gz",
+      "AssetFile": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\ESG\\TakeCare\\obj\\Debug\\net9.0\\compressed\\i3xn3o0eor-8t2aqnmsg1.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -21610,7 +21610,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "540"
+          "Value": "541"
         },
         {
           "Name": "Content-Type",
@@ -21618,11 +21618,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"dX14MR8rV0XBrqfatidZ6jtOuPyoH5EtnsbglacsDO8=\""
+          "Value": "\"/zIXzbkph4dAu0tARjQJwxh/A7TFlUM9uMXrev26RKY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 13 May 2025 02:42:12 GMT"
+          "Value": "Wed, 14 May 2025 02:34:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21640,7 +21640,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-dX14MR8rV0XBrqfatidZ6jtOuPyoH5EtnsbglacsDO8="
+          "Value": "sha256-/zIXzbkph4dAu0tARjQJwxh/A7TFlUM9uMXrev26RKY="
         }
       ]
     }

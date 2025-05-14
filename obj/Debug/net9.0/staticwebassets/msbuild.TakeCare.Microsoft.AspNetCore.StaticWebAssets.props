@@ -12,8 +12,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>yxr94rd4sr</Fingerprint>
-      <Integrity>tpUBLVbAtQ4hy+85uKn4Xr0qwuVZDisnNqZJVYcNxQ0=</Integrity>
+      <Fingerprint>8iwh4nv2qn</Fingerprint>
+      <Integrity>MJEiv/nNuh+z9XCTUV2G0YmLgokIPnV401Zkj5n2GWk=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</OriginalItemSpec>
@@ -1116,23 +1116,23 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery\LICENSE.txt'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\TakeCare.geal5igxgm.bundle.scp.css'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\TakeCare.8t2aqnmsg1.bundle.scp.css'))">
       <SourceType>Package</SourceType>
       <SourceId>TakeCare</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/TakeCare</BasePath>
-      <RelativePath>TakeCare.geal5igxgm.bundle.scp.css</RelativePath>
+      <RelativePath>TakeCare.8t2aqnmsg1.bundle.scp.css</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>Reference</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName>ScopedCss</AssetTraitName>
       <AssetTraitValue>ProjectBundle</AssetTraitValue>
-      <Fingerprint>geal5igxgm</Fingerprint>
-      <Integrity>GOvRXIJ1vEGeCovFizsSVqQOJjrMihacleTyNXRkrCg=</Integrity>
+      <Fingerprint>8t2aqnmsg1</Fingerprint>
+      <Integrity>RF3rgbE6Dv695gMLgtCtG+y9WrrMwKOUOZ5Om1+qhV0=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\TakeCare.geal5igxgm.bundle.scp.css'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\TakeCare.8t2aqnmsg1.bundle.scp.css'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\TakeCare.png'))">
       <SourceType>Package</SourceType>

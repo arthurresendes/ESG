@@ -77,8 +77,6 @@ C:\Users\arthu\OneDrive\Área de Trabalho\Programação\Trabalhos\Desenvolviment
 C:\Users\arthu\OneDrive\Área de Trabalho\Programação\Trabalhos\Desenvolvimento web\ESG\TakeCare\obj\Debug\net9.0\compressed\u4d3qfsbtl-muycvpuwrr.gz
 C:\Users\arthu\OneDrive\Área de Trabalho\Programação\Trabalhos\Desenvolvimento web\ESG\TakeCare\obj\Debug\net9.0\compressed\lfpaciipla-87fc7y1x7t.gz
 C:\Users\arthu\OneDrive\Área de Trabalho\Programação\Trabalhos\Desenvolvimento web\ESG\TakeCare\obj\Debug\net9.0\compressed\mi4eklex9m-mlv21k5csn.gz
-C:\Users\arthu\OneDrive\Área de Trabalho\Programação\Trabalhos\Desenvolvimento web\ESG\TakeCare\obj\Debug\net9.0\compressed\i3xn3o0eor-geal5igxgm.gz
-C:\Users\arthu\OneDrive\Área de Trabalho\Programação\Trabalhos\Desenvolvimento web\ESG\TakeCare\obj\Debug\net9.0\compressed\jz3wwbqrzy-geal5igxgm.gz
 C:\Users\arthu\OneDrive\Área de Trabalho\Programação\Trabalhos\Desenvolvimento web\ESG\TakeCare\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\arthu\OneDrive\Área de Trabalho\Programação\Trabalhos\Desenvolvimento web\ESG\TakeCare\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\arthu\OneDrive\Área de Trabalho\Programação\Trabalhos\Desenvolvimento web\ESG\TakeCare\obj\Debug\net9.0\staticwebassets.build.endpoints.json
@@ -94,4 +92,6 @@ C:\Users\arthu\OneDrive\Área de Trabalho\Programação\Trabalhos\Desenvolviment
 C:\Users\arthu\OneDrive\Área de Trabalho\Programação\Trabalhos\Desenvolvimento web\ESG\TakeCare\obj\Debug\net9.0\TakeCare.genruntimeconfig.cache
 C:\Users\arthu\OneDrive\Área de Trabalho\Programação\Trabalhos\Desenvolvimento web\ESG\TakeCare\obj\Debug\net9.0\ref\TakeCare.dll
 C:\Users\arthu\OneDrive\Área de Trabalho\Programação\Trabalhos\Desenvolvimento web\ESG\TakeCare\obj\Debug\net9.0\TakeCare.sourcelink.json
-C:\Users\arthu\OneDrive\Área de Trabalho\Programação\Trabalhos\Desenvolvimento web\ESG\TakeCare\obj\Debug\net9.0\compressed\i118lbwu8n-yxr94rd4sr.gz
+C:\Users\arthu\OneDrive\Área de Trabalho\Programação\Trabalhos\Desenvolvimento web\ESG\TakeCare\obj\Debug\net9.0\compressed\i3xn3o0eor-8t2aqnmsg1.gz
+C:\Users\arthu\OneDrive\Área de Trabalho\Programação\Trabalhos\Desenvolvimento web\ESG\TakeCare\obj\Debug\net9.0\compressed\jz3wwbqrzy-8t2aqnmsg1.gz
+C:\Users\arthu\OneDrive\Área de Trabalho\Programação\Trabalhos\Desenvolvimento web\ESG\TakeCare\obj\Debug\net9.0\compressed\i118lbwu8n-8iwh4nv2qn.gz
