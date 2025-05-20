@@ -1,4 +1,4 @@
-namespace TakeCare.Models;
+namespace Projeto_Take.Models;
 
 public class ErrorViewModel
 {

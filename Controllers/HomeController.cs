@@ -1,8 +1,8 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using TakeCare.Models;
+using Projeto_Take.Models;
 
-namespace TakeCare.Controllers;
+namespace Projeto_Take.Controllers;
 
 public class HomeController : Controller
 {
@@ -13,12 +13,20 @@ public class HomeController : Controller
         _logger = logger;
     }
 
-    public IActionResult Index()
+    public IActionResult Contato()
     {
         return View();
     }
 
-    public IActionResult Privacy()
+    public IActionResult Login()
+    {
+        return View();
+    }
+    public IActionResult Servicos()
+    {
+        return View();
+    }
+    public IActionResult Index()
     {
         return View();
     }

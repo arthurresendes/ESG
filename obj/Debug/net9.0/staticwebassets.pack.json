@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\ESG\\TakeCare\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\TakeCare.bundle.scp.css",
-      "PackagePath": "staticwebassets\\TakeCare.8t2aqnmsg1.bundle.scp.css"
+      "PackagePath": "staticwebassets\\TakeCare.geal5igxgm.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\ESG\\TakeCare\\wwwroot\\TakeCare.png",
@@ -11,6 +11,14 @@
     {
       "Id": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\ESG\\TakeCare\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\ESG\\TakeCare\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\ESG\\TakeCare\\wwwroot\\imagens\\logo.png",
+      "PackagePath": "staticwebassets\\imagens\\logo.png"
     },
     {
       "Id": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\ESG\\TakeCare\\wwwroot\\js\\site.js",
@@ -207,6 +215,14 @@
     {
       "Id": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\ESG\\TakeCare\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\ESG\\TakeCare\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\ESG\\TakeCare\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
       "Id": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\ESG\\TakeCare\\wwwroot\\lib\\jquery-validation\\LICENSE.md",

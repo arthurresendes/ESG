@@ -7,58 +7,60 @@
     <title>@ViewData["Title"] - TakeCare</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/TakeCare.styles.css" asp-append-version="true" />
-    <link rel="icon" type="image/png" href="~/TakeCare.png" />
+    <link rel="stylesheet" href="~/Projeto_Take.styles.css" asp-append-version="true" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Quicksand:wght@300..700&family=Special+Gothic+Expanded+One&display=swap"
+        rel="stylesheet">
 </head>
 
 <body>
-<header>
-    <!-- Barra de Navegação -->
-    <nav class="navbar navbar-expand-sm navbar-light border-bottom box-shadow mb-3"
-        style="background: linear-gradient(to right, #98E8CB, #94B9FF);">
-        <div class="container-fluid">
-            <!-- Logo -->
-            <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">
-                <img src="~/TakeCare.png" alt="Take Care" style="height: 40px;" />
-            </a>
-
-            <!-- Menu de Navegação -->
-            <ul class="navbar-nav d-flex flex-wrap justify-content-start w-100">
-                <li class="nav-item">
-                    <a class="nav-link " asp-area="" asp-controller="Home" asp-action="Index">Take Care</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link " asp-area="" asp-controller="Home" asp-action="Privacy">Serviços</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link " asp-area="" asp-controller="Home" asp-action="Privacy">Contato</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link " asp-area="" asp-controller="Home" asp-action="Privacy">Áreas</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link " asp-area="" asp-controller="Home" asp-action="Privacy">Logar</a>
-                </li>
-            </ul>
-        </div>
-    </nav>
-</header>
-
-    <!-- Conteúdo Principal -->
+    <header>
+        <!-- Navbar com gradiente -->
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm gradient-navbar">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">
+                    <img src="~/imagens/logo.png" alt="Logo">
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse"
+                    aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="Index">Take
+                                Care</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-white" asp-area="" asp-controller="Home"
+                                asp-action="Servicos">Serviços</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-white" asp-area="" asp-controller="Home"
+                                asp-action="Contato">Contato</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-white" asp-area="" asp-controller="Home"
+                                asp-action="Login">Login</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
     <div class="container">
-        <main role="main" class="pb-3" style="width: 100%;">
+        <main role="main" class="pb-3">
             @RenderBody()
         </main>
     </div>
 
-    <!-- Rodapé -->
     <footer class="border-top footer text-muted">
         <div class="container">
-            &copy; 2025 - TakeCare - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            &copy; 2025 - Projeto_Take - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
         </div>
     </footer>
-
-    <!-- Scripts -->
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
