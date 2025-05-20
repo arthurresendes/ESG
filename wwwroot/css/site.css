@@ -55,6 +55,7 @@ body {
 .gradient-navbar .nav-link {
   color: white !important;
   font-weight: bolder;
+  font-size: 30px;
   font-family: quicksand;
   gap: 50px;
 }
@@ -64,7 +65,7 @@ body {
   color: #7725fb !important;
   text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.107);
   transition-duration: .5s;
-  font-size: 17px;
+  font-size: 32px;
 }
 
 .parte1 {
