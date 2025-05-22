@@ -1,11 +1,37 @@
-﻿<div class="pagina">
-    <div class="login">
-        <h1 class="titulo">Login</h1>
-        <label for="nome">Usuario</label>
-        <input type="text" name="nome" id="nome">
-        <label for="senha">Senha</label>
-        <input type="password" name="senha" id="senha">
-        <br>
-        <input type="submit" value="Enviar">
+﻿@{
+    ViewData["Title"] = "Login ou Cadastro";
+}
+
+<div class="pagina login-background">
+    <div class="login-wrapper move-slide" id="loginWrapper">
+        <div class="form login-form">
+            <h2>Entrar</h2>
+            <input type="text" placeholder="Email" />
+            <input type="password" placeholder="Senha" />
+            <button class="botao-gradiente">Login</button>
+            <p>Não tem uma conta? <a href="#" id="goToRegister">Cadastre-se</a></p>
+        </div>
+        <div class="form register-form">
+            <h2>Cadastrar</h2>
+            <input type="text" placeholder="Nome" />
+            <input type="email" placeholder="Email" />
+            <input type="password" placeholder="Senha" />
+            <button class="botao-gradiente">Cadastrar</button>
+            <p>Já tem uma conta? <a href="#" id="goToLogin">Entrar</a></p>
+        </div>
     </div>
 </div>
+
+
+<script>
+    document.getElementById('goToRegister').addEventListener('click', function (e) {
+        e.preventDefault();
+        document.getElementById('loginWrapper').classList.add('move-left');
+    });
+
+    document.getElementById('goToLogin').addEventListener('click', function (e) {
+        e.preventDefault();
+        document.getElementById('loginWrapper').classList.remove('move-left');
+    });
+</script>
+

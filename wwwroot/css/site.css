@@ -19,6 +19,7 @@ html {
 html {
   position: relative;
   min-height: 100%;
+  scroll-padding-top: 100px;
 }
 
 body {
@@ -37,13 +38,16 @@ body {
 
 /* Garantindo que a navbar tenha espaçamento dentro dela */
 .navbar {
-  padding-top: 10px;
-  /* Ajusta o espaçamento na parte superior da navbar */
-  padding-bottom: 10px;
-  /* Ajusta o espaçamento na parte inferior da navbar */
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 9999;
 }
 
-
+/* Compensação no conteúdo abaixo da navbar */
+main {
+  padding-top: 60px; /* ajuste esse valor se a navbar for mais alta */
+}
 
 .gradient-navbar {
   background: linear-gradient(to right, #5ed1d1, #a0f2ac);
@@ -57,6 +61,7 @@ body {
   font-weight: bolder;
   font-family: quicksand;
   gap: 50px;
+  font-size: 22px;
 }
 
 .gradient-navbar .navbar-brand,
@@ -64,7 +69,7 @@ body {
   color: #7725fb !important;
   text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.107);
   transition-duration: .5s;
-  font-size: 17px;
+  font-size: 24px;
 }
 
 .parte1 {
@@ -237,21 +242,90 @@ body {
   border-radius: 10px;
   border: 2px solid transparent;
 }
-.pagina {
+/* Fundo com gradiente */
+.login-background {
+  background: linear-gradient(135deg, #89f6fe4e, #66a6ff4e);
+  height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;}
-
-.login{
-  display: flex;
-  flex-direction: column;
-  border: 2px solid transparent;
-  box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.327);
-  border-radius: 2px;
-  padding: 30px;
 }
 
-input{
-  border-radius: 10px;
+/* Área central com gradiente suave */
+.login-wrapper {
+  display: flex;
+  width: 700px;
+  max-width: 95%;
+  height: auto;
+  border-radius: 15px;
+  overflow: hidden;
+  background: linear-gradient(to right, #ffffff, #e0f7fa);
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+  position: relative;
+  transition: 0.5s;
+}
+
+.login-form,
+.register-form {
+  width: 100%;
+  padding: 30px;
+  flex-shrink: 0;
+  transition: transform 0.5s ease-in-out;
+}
+
+.register-form {
+  position: absolute;
+  left: 100%;
+  top: 0;
+}
+
+.login-wrapper.move-left .login-form {
+  transform: translateX(-100%);
+}
+
+.login-wrapper.move-left .register-form {
+  transform: translateX(-100%);
+  position: relative;
+}
+
+.login-form h2,
+.register-form h2 {
+  text-align: center;
+  font-family: quicksand;
+  color: #007bff;
+  margin-bottom: 20px;
+}
+
+.login-form input,
+.register-form input {
+  margin: 10px 0;
+  padding: 10px;
+  width: 100%;
+  border: 1px solid lightgray;
+  border-radius: 5px;
+}
+
+.login-form p,
+.register-form p {
+  margin-top: 10px;
+  text-align: center;
+}
+
+/* Botão com gradiente */
+.botao-gradiente {
+  padding: 10px 20px;
+  width: 100%;
+  border: none;
+  border-radius: 8px;
+  background: linear-gradient(to right, #6a11cb, #2575fc);
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.3s;
+  margin-top: 10px;
+}
+
+.botao-gradiente:hover {
+  background: linear-gradient(to right, #2575fc, #6a11cb);
+  transform: scale(1.03);
 }
